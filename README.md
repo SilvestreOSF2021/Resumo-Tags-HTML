@@ -3,10 +3,6 @@
 **Juliana Izac** 26/12/2020 13:05
 https://linktr.ee/julianaizac
 
-Link Notion: https://www.notion.so/julianaizac/HTML-7689adfbb8f84fb49bd2bc961c1be410
-
-Link DIO: https://web.digitalinnovation.one/articles/resumo-tags-html
-
 _Resumo Tags HTML: Básico, Formatação, Formulários e Entradas, Imagens, Áudio Vídeo, Ligações, Tabelas, Estilos e Semanticas, Meta Info, Programação._ 
 
 
@@ -35,3 +31,7 @@ _Resumo Tags HTML: Básico, Formatação, Formulários e Entradas, Imagens, Áud
 ![DIO HTML5 TAGs 12 Programacao](https://user-images.githubusercontent.com/76437195/103159988-591abd80-47a6-11eb-95b3-df949d2dc783.png)
 
 ![DIO HTML5 TAGs 13 Juliana Izac](https://user-images.githubusercontent.com/76437195/103159993-5fa93500-47a6-11eb-830b-3b19389cbad1.jpg)
+
+Link Notion: https://www.notion.so/julianaizac/HTML-7689adfbb8f84fb49bd2bc961c1be410
+
+Link DIO: https://web.digitalinnovation.one/articles/resumo-tags-html
